@@ -128,6 +128,13 @@
     "api-key": "$GCORE_API_KEY",
     "domain": "$GCORE_DOMAIN"
   },
+  "GODADDY": {
+    "TYPE": "GODADDY",
+    "api_key": "$GODADDY_API_KEY",
+    "api_secret": "$GODADDY_API_SECRET",
+    "api_url": "GODADDY_API_URL",
+    "domain": "$GODADDY_DOMAIN"
+  },
   "HEDNS": {
     "TYPE": "HEDNS",
     "domain": "$HEDNS_DOMAIN",
